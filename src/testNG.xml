@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FrameWork Suite">
+    <test name="login">
+        <classes>
+            <class name="com.anamika.loginTest.loginTest" />
+            <class name="com.anamika.accountTest.accountsTest" />
+        </classes>
+    </test>
+</suite>
